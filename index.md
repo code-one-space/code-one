@@ -17,8 +17,8 @@ Archiv:
 [Jourfixe 2](jourfixes/jourfixe_2)
 
 * documents  
-[./Beispieldokument.txt](documents/example.txt)
-[./Dokumentation.txt](documents/example.txt)
+[./Beispieldokument.txt](documents/example.txt)  
+[./Dokumentation.txt](documents/example.txt)  
   
 * * *  
   
