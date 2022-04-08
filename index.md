@@ -10,7 +10,7 @@ Auf dieser Webseite finden Sie alle relevanten Dokumente, von Pr√§sentationen f√
 Currently none! [WIP]
 
 * jour -fixe  
-Aktuell: 
+Aktuell:  
 [Jourfixe 1](jourfixes/jourfixe_1)  
 Archiv:  
 [Jourfixe 2](jourfixes/jourfixe_2)
