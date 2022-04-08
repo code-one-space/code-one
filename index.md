@@ -10,6 +10,7 @@ Auf dieser Webseite finden Sie alle relevanten Dokumente, von Präsentationen f�
 Currently none! [WIP]
 
 * jour -fixe  
+<br />
 Aktuell:  
 [./Jourfixe_1](jourfixes/jourfixe_1)  
 <br />
@@ -30,7 +31,7 @@ Wir sind das Softwareentwicklungsteam 1, eine studentische Softwareentwicklergru
 
 Sie können uns jederzeit wie folgt erreichen:  
 <p align="center">
-    <a href="mailto:nojomyth@gmx.de?subject=Anfrage%20zum%20SEP%20-%20">E-Mail</a>
+    <a href="mailto:nojomyth@gmx.de?subject=Anfrage%20zum%20SEP%20-%20" style="font-size:32px; color: white;">&#xf0e0;</a>
 </p>
 
 Wir antworten schnellstmöglich auf Ihre Anfrage, im Normalfall erhalten Sie innerhalb von spätestens 24h eine Antwort.
