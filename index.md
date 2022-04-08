@@ -1,4 +1,4 @@
-![CodeOne](assets/images/codeone-logo-white.svg)
+<img src="assets/images/codeone-logo-white.svg" width="800" height="400" align="center"></img>
 
 # ./willkommen
 
