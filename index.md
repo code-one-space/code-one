@@ -23,8 +23,8 @@ Archiv:
 [./jourfixe 3](jourfixes/jourfixe_3)
 
 * documents  
-[./Beispieldokument.txt](documents/example.txt)  
-[./Dokumentation.txt](documents/example.txt)  
+[./Beispieldokument.txt](assets/documents/example.txt)  
+[./Dokumentation.txt](assets/documents/example.txt)  
   
 * * *  
   
