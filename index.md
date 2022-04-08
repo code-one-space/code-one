@@ -1,4 +1,3 @@
-<img src="assets/images/codeone-logo-white.svg" width="800" height="400"/>
 
 # ./willkommen
 
