@@ -9,7 +9,7 @@ Auf dieser Webseite finden Sie alle relevanten Dokumente, von Pr√§sentationen f√
 ## jour fixe
 Aktuell: 
 [Jourfixe 1](jourfixes/jourfixe_1)  
-Archiv:</br>  
+Archiv:  
 [Jourfixe 2](jourfixes/jourfixe_2)
 
 ## documents
