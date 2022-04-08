@@ -12,6 +12,7 @@ Currently none! [WIP]
 * jour -fixe  
 Aktuell:  
 [Jourfixe 1](jourfixes/jourfixe_1)  
+
 Archiv:  
 [Jourfixe 2](jourfixes/jourfixe_2)
 
