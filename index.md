@@ -35,7 +35,7 @@ Wir sind das Softwareentwicklungsteam 1, eine studentische Softwareentwicklergru
 
 Sie können uns jederzeit wie folgt erreichen:  
 <p align="center">
-    <a href="mailto:nojomyth@gmx.de?subject=Anfrage%20zum%20SEP%20-%20" style="font-size:50px; color: white;"><i class="fa-solid fa-envelope"></i></a>
+    <a href="mailto:nojomyth@gmx.de?subject=Anfrage%20zum%20SEP%20-%20" style="font-size:50px; color: white;"><i class="fa-solid fa-envelope"></i><span style="font-size: 16px"> nojomyth@gmx.de</span></a>
 </p>
 
 Wir antworten schnellstmöglich auf Ihre Anfrage, im Normalfall erhalten Sie innerhalb von spätestens 24h eine Antwort.
