@@ -11,9 +11,10 @@ Currently none! [WIP]
 
 * jour -fixe  
 Aktuell:  
-[Jourfixe 1](jourfixes/jourfixe_1)  
+[./Jourfixe_1/](jourfixes/jourfixe_1)  
 Archiv:  
-[Jourfixe 2](jourfixes/jourfixe_2)
+[./Jourfixe_2/](jourfixes/jourfixe_2)
+[./Jourfixe_3/](jourfixes/jourfixe_3)
 
 * documents  
 [./Beispieldokument.txt](documents/example.txt)  
