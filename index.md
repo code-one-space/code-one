@@ -1,9 +1,9 @@
 # ./willkommen
 
 Auf dieser Webseite finden Sie alle relevanten Dokumente, von Präsentationen für JourFixes bis hin zu Feature-Beschreibungen und Dokumentationen über das Projekt.
-
-* * *
-
+  
+* * *  
+  
 # ./files  
 
 * subpages  
@@ -18,9 +18,9 @@ Archiv:
 * documents  
 [./Beispieldokument.txt](documents/example.txt)
 [./Dokumentation.txt](documents/example.txt)
-
-* * *
-
+  
+* * *  
+  
 # ./about_us
 Wir sind das Softwareentwicklungsteam 1, eine studentische Softwareentwicklergruppe, welche im Rahmen des SEP (Softwareentwicklungprojekts) an der Hochschule Mannheim im Sommersemester 2022 an einem Projekt arbeitet.
   
