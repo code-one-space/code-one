@@ -21,10 +21,10 @@ Archiv:
 
 * * *
 
-# ./about -us
+# ./about_us
 Wir sind das Softwareentwicklungsteam 1, eine studentische Softwareentwicklergruppe, welche im Rahmen des SEP (Softwareentwicklungprojekts) an der Hochschule Mannheim im Sommersemester 2022 an einem Projekt arbeitet.
   
-# ./contact -us
+# ./contact_us
 
 Sie können uns jederzeit wie folgt erreichen:  
 <p align="center">
