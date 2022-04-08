@@ -1,5 +1,6 @@
 
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
 <p align="center">
     <img src="assets/images/codeone-logo-white.svg" width=512 heigth=256 />
 </p>
