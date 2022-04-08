@@ -4,9 +4,7 @@ Auf dieser Webseite finden Sie alle relevanten Dokumente, von Präsentationen f�
 
 * * *
 
-# sections
-
-* * *
+# sections  
 
 ## jour fixe
 Aktuell: 
@@ -21,9 +19,12 @@ Archiv:</br>
 
 # about us
 Wir sind das Softwareentwicklungsteam 1, eine studentische Softwareentwicklergruppe, welche im Rahmen des SEP (Softwareentwicklungprojekts) an der Hochschule Mannheim im Sommersemester 2022 an einem Projekt arbeitet.
-
-## contact us
+  
+# contact us
 
 Sie können uns jederzeit wie folgt erreichen:  
-[E-Mail](mailto:nojomyth@gmx.de?subject=Anfrage%20zum%20SEP%20-%20)  
+<p align="center">
+    [E-Mail](mailto:nojomyth@gmx.de?subject=Anfrage%20zum%20SEP%20-%20)  
+</p>
+
 Wir antworten Ihnen schnellstmöglich auf Ihre Anfrage, im Normalfall erhalten Sie innerhalb von spätestens 24h eine Antwort.
