@@ -1,6 +1,4 @@
-
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
+<script src="https://kit.fontawesome.com/1028ae0f5b.js" crossorigin="anonymous"></script>
 <p align="center">
     <img src="assets/images/codeone-logo-white.svg" width=512 heigth=256 />
 </p>
@@ -37,7 +35,7 @@ Wir sind das Softwareentwicklungsteam 1, eine studentische Softwareentwicklergru
 
 Sie können uns jederzeit wie folgt erreichen:  
 <p align="center">
-    <a href="mailto:nojomyth@gmx.de?subject=Anfrage%20zum%20SEP%20-%20" style="font-size:32px; color: white;"><span class="material-icons-outlined">email</span></a>
+    <a href="mailto:nojomyth@gmx.de?subject=Anfrage%20zum%20SEP%20-%20" style="font-size:32px; color: white;"><i class="fa-solid fa-envelope"></i></a>
 </p>
 
 Wir antworten schnellstmöglich auf Ihre Anfrage, im Normalfall erhalten Sie innerhalb von spätestens 24h eine Antwort.
