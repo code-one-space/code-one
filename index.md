@@ -1,3 +1,5 @@
+![CodeOne](assets/images/codeone-logo-white.png)
+
 # ./willkommen
 
 Auf dieser Webseite finden Sie alle relevanten Dokumente, von Präsentationen für JourFixes bis hin zu Feature-Beschreibungen und Dokumentationen über das Projekt.
