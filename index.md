@@ -1,4 +1,4 @@
-<img src="assets/images/small_logo.png" align="center"/>
+<img src="assets/images/codeone-logo-white.svg" width=512 heigth=512 alignment="center"/>
 # ./willkommen
 
 Auf dieser Webseite finden Sie alle relevanten Dokumente, von Präsentationen für JourFixes bis hin zu Feature-Beschreibungen und Dokumentationen über das Projekt.
@@ -31,7 +31,7 @@ Wir sind das Softwareentwicklungsteam 1, eine studentische Softwareentwicklergru
 # ./contact_us
 
 Sie können uns jederzeit wie folgt erreichen:  
-<p align="center">
+<p alignment="center">
     <a href="mailto:nojomyth@gmx.de?subject=Anfrage%20zum%20SEP%20-%20" style="font-size:32px; color: white;">&#xf0e0;</a>
 </p>
 
