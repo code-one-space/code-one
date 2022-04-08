@@ -13,7 +13,7 @@ Auf dieser Webseite finden Sie alle relevanten Dokumente, von Pr√§sentationen f√
 * subpages  
 Currently none! [WIP]
 
-* jour -fixe  
+* ./jourfixe -ls  
 <br />
 Aktuell:  
 [./jourfixe 1](jourfixes/jourfixe_1)  
