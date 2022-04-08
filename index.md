@@ -6,14 +6,18 @@ Auf dieser Webseite finden Sie alle relevanten Dokumente, von Pr√§sentationen f√
 
 # ./files  
 
-* jour -fixe
+* subpages  
+Currently none! [WIP]
+
+* jour -fixe  
 Aktuell: 
 [Jourfixe 1](jourfixes/jourfixe_1)  
 Archiv:  
 [Jourfixe 2](jourfixes/jourfixe_2)
 
-* documents
-[Beispieldokument](documents/example.txt)
+* documents  
+[./Beispieldokument.txt](documents/example.txt)
+[./Dokumentation.txt](documents/example.txt)
 
 * * *
 
