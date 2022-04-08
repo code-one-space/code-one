@@ -1,5 +1,5 @@
-<p>
-    <img src="assets/images/codeone-logo-white.svg" width=512 heigth=256 align="center"/>
+<p align="center">
+    <img src="assets/images/codeone-logo-white.svg" width=512 heigth=256 />
 </p>
 # ./willkommen
 
@@ -15,11 +15,11 @@ Currently none! [WIP]
 * jour -fixe  
 <br />
 Aktuell:  
-[./Jourfixe_1](jourfixes/jourfixe_1)  
+[./jourfixe_1](jourfixes/jourfixe_1)  
 <br />
 Archiv:  
-[./Jourfixe_2](jourfixes/jourfixe_2)  
-[./Jourfixe_3](jourfixes/jourfixe_3)
+[./jourfixe_2](jourfixes/jourfixe_2)  
+[./jourfixe_3](jourfixes/jourfixe_3)
 
 * documents  
 [./Beispieldokument.txt](documents/example.txt)  
