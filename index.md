@@ -1,5 +1,5 @@
 <p>
-    <img src="assets/images/codeone-logo-white.svg" width=512 heigth=256 alignment="center"/>
+    <img src="assets/images/codeone-logo-white.svg" width=512 heigth=256 align="center"/>
 </p>
 # ./willkommen
 
