@@ -1,4 +1,4 @@
-![CodeOne](assets/images/codeone-logo-white.png)
+![CodeOne](assets/images/codeone-logo-white.svg)
 
 # ./willkommen
 
