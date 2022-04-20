@@ -3,7 +3,7 @@
 ## work in progress
 Hey! Diese Seite befindet sich derzeit noch im Aufbau.  
 Unsere Hamster arbeiten fleißig daran, diese Seiten zu bauen.  
-Derzeit sind leider alle Hamster im Urlaub! Unsere menschlichen Mitarbeiter übernehmen also 
+Derzeit sind leider alle Hamster im Urlaub! Unsere menschlichen Mitarbeiter übernehmen also, 
 werden allerdings etwas länger brauchen als unsere hocheffizienten Hamster. ;)  
 <br />
 Vielen Dank für das Verständnis!  
