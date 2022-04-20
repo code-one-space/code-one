@@ -15,8 +15,8 @@ Currently none! [WIP]
 
 * ls aktuelles
 <br />  
-[./jourfixe 1](../pages/wip/index.md)  
-[./interview exxeta](pages/interviews/)  
+[./interview exxeta](pages/interviews/)
+[./jourfixe 1](./pages/wip/)  
 <br />  
 * ls archiv  
 [./jourfixe 2](jourfixes/jourfixe_2)  
@@ -30,7 +30,7 @@ Currently none! [WIP]
 # ./idee
 Unsere Idee ist es, ein Produkt zu entwickeln, welches kleine Scrum-Teams (4-7 Entwickler inkl. Scrummaster und Productowner) im Alltag
 bei der Organisation unterstützt. Es sind verschiedene Features geplant, welche durch Interviews und Personenbefragungen geprüft werden sollen.  
-[./read more](./pages/wip/index.md)
+[./read more](./pages/wip/)
 
 * * *
 # ./about_us
