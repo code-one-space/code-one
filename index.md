@@ -1,4 +1,5 @@
 <script src="https://kit.fontawesome.com/1028ae0f5b.js" crossorigin="anonymous"></script>
+<style>a {text-decoration: none;}</style>
 <p align="center">
     <img src="assets/images/codeone-logo-white.svg" width=512 heigth=256 />
 </p>
