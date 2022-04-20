@@ -30,7 +30,7 @@ Currently none! [WIP]
 # ./idee
 Unsere Idee ist es, ein Produkt zu entwickeln, welches kleine Scrum-Teams (4-7 Entwickler inkl. Scrummaster und Productowner) im Alltag
 bei der Organisation unterstützt. Es sind verschiedene Features geplant, welche durch Interviews und Personenbefragungen geprüft werden sollen.  
-[./read more](../code-one/pages/wip/index.md)
+[./read more](./pages/wip/index.md)
 
 * * *
 # ./about_us
