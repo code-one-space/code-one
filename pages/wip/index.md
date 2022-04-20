@@ -8,8 +8,9 @@ werden allerdings etwas länger brauchen als unsere hocheffizienten Hamster. ;)
 <br />
 Vielen Dank für das Verständnis!  
 <br />
-Wenn Sie unbedingt diese Seite finden möchten, können sie gerne hier suchen:  
+Wenn Sie unbedingt diese Seite finden möchten, können Sie gerne hier suchen:  
 [./library_of_babel](https://libraryofbabel.info/)  
+(Wir übernehmen keine Haftung für externe Inhalte)
 
 Alternativ geht es hier zu unserer Startseite:  
 [./startseite](https://codeone.space)  
