@@ -13,14 +13,14 @@ Auf dieser Webseite finden Sie alle relevanten Dokumente, von Präsentationen f�
 * subpages  
 Currently none! [WIP]
 
-* ls aktuelles  
-<br />   
+* ls aktuelles
+<br />  
 [./jourfixe 1](../pages/wip/index.md)  
 [./interview exxeta](pages/interviews/)  
 <br />  
 * ls archiv  
 [./jourfixe 2](jourfixes/jourfixe_2)  
-[./jourfixe 3](jourfixes/jourfixe_3)
+[./jourfixe 3](jourfixes/jourfixe_3)  
 <br />  
 * ls documents  
 [./Beispieldokument.txt](assets/documents/example.txt)  
@@ -30,7 +30,7 @@ Currently none! [WIP]
 # ./idee
 Unsere Idee ist es, ein Produkt zu entwickeln, welches kleine Scrum-Teams (4-7 Entwickler inkl. Scrummaster und Productowner) im Alltag
 bei der Organisation unterstützt. Es sind verschiedene Features geplant, welche durch Interviews und Personenbefragungen geprüft werden sollen.  
-[./read more](jourfixes/jourfixe_3)
+[./read more](../code-one/pages/wip/index.md)
 
 * * *
 # ./about_us
