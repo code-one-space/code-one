@@ -13,15 +13,14 @@ Auf dieser Webseite finden Sie alle relevanten Dokumente, von Pr√§sentationen f√
 * subpages  
 Currently none! [WIP]
 
-* ls aktuelles
-<br />  
+* ls aktuelles  
 [./interview exxeta](pages/interviews/)  
 [./jourfixe 1](./pages/wip/)  
-<br />  
+
 * ls archiv  
 [./jourfixe 2](./pages/wip/)  
 [./jourfixe 3](./pages/wip/)  
-<br />  
+
 * ls documents  
 [./Beispieldokument.txt](assets/documents/example.txt)  
 [./Dokumentation.txt](assets/documents/example.txt)  
