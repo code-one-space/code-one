@@ -19,8 +19,8 @@ Currently none! [WIP]
 [./jourfixe 1](./pages/wip/)  
 <br />  
 * ls archiv  
-[./jourfixe 2](jourfixes/jourfixe_2)  
-[./jourfixe 3](jourfixes/jourfixe_3)  
+[./jourfixe 2](./pages/wip/)  
+[./jourfixe 3](./pages/wip/)  
 <br />  
 * ls documents  
 [./Beispieldokument.txt](assets/documents/example.txt)  
