@@ -13,21 +13,26 @@ Auf dieser Webseite finden Sie alle relevanten Dokumente, von Präsentationen f�
 * subpages  
 Currently none! [WIP]
 
-* ./jourfixe -ls  
-<br />
-Aktuell:  
-[./jourfixe 1](jourfixes/jourfixe_1)  
-<br />
-Archiv:  
+* ls aktuelles  
+<br />   
+[./jourfixe 1](../pages/wip/index.md)  
+[./interview exxeta](pages/interviews/)  
+<br />  
+* ls archiv  
 [./jourfixe 2](jourfixes/jourfixe_2)  
 [./jourfixe 3](jourfixes/jourfixe_3)
-
-* documents  
+<br />  
+* ls documents  
 [./Beispieldokument.txt](assets/documents/example.txt)  
 [./Dokumentation.txt](assets/documents/example.txt)  
   
 * * *  
-  
+# ./idee
+Unsere Idee ist es, ein Produkt zu entwickeln, welches kleine Scrum-Teams (4-7 Entwickler inkl. Scrummaster und Productowner) im Alltag
+bei der Organisation unterstützt. Es sind verschiedene Features geplant, welche durch Interviews und Personenbefragungen geprüft werden sollen.  
+[./read more](jourfixes/jourfixe_3)
+
+* * *
 # ./about_us
 Wir sind das Softwareentwicklungsteam 1, eine studentische Softwareentwicklergruppe, welche im Rahmen des SEP (Softwareentwicklungprojekts) an der Hochschule Mannheim im Sommersemester 2022 an einem Projekt arbeitet.
   
