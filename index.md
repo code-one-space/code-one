@@ -15,7 +15,7 @@ Currently none! [WIP]
 
 * ls aktuelles
 <br />  
-[./interview exxeta](pages/interviews/)
+[./interview exxeta](pages/interviews/)  
 [./jourfixe 1](./pages/wip/)  
 <br />  
 * ls archiv  
