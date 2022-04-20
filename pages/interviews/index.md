@@ -8,6 +8,8 @@ in Unternehmensstandards eingeweiht sind haben wir uns mit J. unterhalten und ve
 Verbesserung für den Alltag als agilen Entwickler darstellen und welche unerwünscht sind. Natürlich haben wir uns auch offen für neue Vorschläge und 
 Änderungen an unserer bisherigen Idee gezeigt.
 
+* * *
+
 ## ./files  
 * ls -a  
   
