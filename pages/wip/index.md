@@ -1,3 +1,4 @@
+<style>a {text-decoration: none;}</style>
 # ./wip
 
 ## work in progress
