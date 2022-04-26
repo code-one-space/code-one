@@ -10,3 +10,4 @@ Ein ausführlicher Text folgt nach der Präsentation.
 * ls -a  
 
 [./jourfixe 1](./../../assets/documents/CodeOne_JF1_temp.pdf)
+[./risk_management](https://docs.google.com/spreadsheets/d/1KWmd3f5K6jiEH1-YzvcWmgIIqKQHIrXcmGTyRT89FJA/edit?usp=sharing)
