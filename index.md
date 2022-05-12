@@ -26,9 +26,8 @@ Derzeit noch nichts vorhanden!
 * * *  
 # ./idee
 Unsere Idee ist es, ein Produkt zu entwickeln, welches kleine Scrum-Teams (4-7 Entwickler inkl. Scrummaster und Productowner) im Alltag
-bei der Organisation unterstützt. Durch problemorientiertes Denken haben wir verschiedene Aspekte gefunden,  
-welche uns im Alltag als agile Softwareentwickler stören.
-[./read more](./pages/wip/)
+bei der Organisation unterstützt. Durch problemorientiertes Denken haben wir verschiedene Aspekte gefunden, welche uns im Alltag als agile Softwareentwickler stören.  
+[./read more](./pages/ideas/)
 
 * * *
 # ./about_us
