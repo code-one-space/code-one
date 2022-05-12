@@ -20,6 +20,7 @@ Ein Planning Poker, ist entgegen dem Namen, kein richtiges Poker (Sie müssen si
 Hier wird einfach über eine schnelle anonyme oder nicht anonyme Abstimmung über einen Zahlenwert die Komplexität oder der Zeitbedarf von verschiedenen Dingen geschätzt.
 Anschließend können alle Mitglieder die Ergebnisse einsehen und über hohe Diskrepanzen diskutieren.
 
-## ./files (Wir übernehmen keine Haftung für externe Inhalte)
+## ./files 
+* (Wir übernehmen keine Haftung für externe Inhalte)
 * ls -a  
 [./hifi_prototype](https://xd.adobe.com/view/68be832e-abb8-440f-b4e8-480b8a086f9e-3ded/?fullscreen&hints=off)

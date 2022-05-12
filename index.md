@@ -20,9 +20,6 @@ Bitte beachten Sie, dass wir nicht alle Dokumente veröffentlichen werden. Dies 
 [./interview exxeta](pages/interviews/)  
 [./jourfixe 1](./pages/jourfixe_1/)  
 
-* ls documents  
-Derzeit noch nichts vorhanden!   
-  
 * * *  
 # ./idee
 Unsere Idee ist es, ein Produkt zu entwickeln, welches kleine Scrum-Teams (4-7 Entwickler inkl. Scrummaster und Productowner) im Alltag
