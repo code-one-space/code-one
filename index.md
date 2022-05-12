@@ -6,25 +6,22 @@
 # ./willkommen
 
 Auf dieser Webseite finden Sie alle relevanten Dokumente, von Präsentationen für JourFixes bis hin zu Feature-Beschreibungen und Dokumentationen über das Projekt.
+Bitte beachten Sie, dass wir nicht alle Dokumente veröffentlichen werden. Dies hat verschiedene Gründe (Datenschutz, Einverständnis von beteiligten Personen felt, u.a.).
   
 * * *  
   
 # ./files  
 
-* subpages  
-Currently none! [WIP]
-
 * ls aktuelles  
+[./review 1](./pages/review_1/)  
+
+* ls archiv  
+[./jourfixe 2](./pages/jourfixe_2/)  
 [./interview exxeta](pages/interviews/)  
 [./jourfixe 1](./pages/jourfixe_1/)  
 
-* ls archiv  
-[./jourfixe 2](./pages/wip/)  
-[./jourfixe 3](./pages/wip/)  
-
 * ls documents  
-[./Beispieldokument.txt](assets/documents/example.txt)  
-[./Dokumentation.txt](assets/documents/example.txt)  
+Derzeit noch nichts vorhanden!   
   
 * * *  
 # ./idee

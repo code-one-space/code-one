@@ -1,12 +1,10 @@
 <style>a {text-decoration: none;}</style>
-# Jourfixe 1
+# Jour fixe 1
 
-Hier finden Sie unsere Präsentationsunterlagen für das erste Jourfixe an der Hochschule Mannheim.  
-Wir möchten im Rahmen des Jourfixe unser Team vorstellen, den bisherigen Kundenkontakt des 1. und 2. Sprints präsentieren, unssere Ideen und Problemanalyse erklären 
-und anschließend auch über unsere Pläne für den 3. Sprint sprechen.  
-Ein ausführlicher Text folgt nach der Präsentation.  
+Hier finden Sie unsere Präsentationsunterlagen für das erste Jour fixe an der Hochschule Mannheim.  
+Im Rahmen des Jour fixe haben wir unser Team vorgestellt, unser Risikomanagement präsentiert und bereits erste Ideen bezüglich der Aufgabenstellung des Kunden besprochen.
 
-## files
+## files (Wir übernehmen keine Haftung für externe Inhalte)
 * ls -a  
 
 [./jourfixe 1](./../../assets/documents/CodeOne_JF1_temp.pdf)  
