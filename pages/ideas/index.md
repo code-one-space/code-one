@@ -12,7 +12,6 @@ Wir haben uns auf ein schnelles, einfaches und effektiv nutzbares Konzept festge
 Die 6 Hüte Methodik nach de Bono ist eine einfache Methode um schnell und effektiv Feedback aus verschiedenen festgelegten Sichten zu erhalten.
 Hierfür werden verschiedenen Teilnehmern Hüte aufgsetzt (in unserem Fall virtuell), welche verschiedene Bedeutungen haben.  
 (z.B. Der schwarze Hut vertritt eine rein kritische Meinung und muss/darf auch nur aus dieser Sicht argumentieren, wohingegen der grüne Hut z.B. alles kreativ sieht).
-
 Weitere Informationen finden Sie hier:
 [./6_huete](https://kreativitätstechniken.info/ideen-generieren/die-6-denkhute-von-de-bono/)
 
