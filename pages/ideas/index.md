@@ -8,7 +8,7 @@ Ebenfalls wurden bereits Prototypen erstellt, zuletzt auch unseren aktuellen Sta
 Wir haben uns auf ein schnelles, einfaches und effektiv nutzbares Konzept festgelegt, welches Meetingteilnehmern verschiedene kleine Tools bieten soll um mit verschiedenen Diskussionsmethoden arbeiten zu können. Ebenfalls geplant sind weitere kleine Quality of Life Features, wie zum Beispiel das Benachrichtigen einer sprechenden Person, dass diese zum Punkt kommen soll.
 
 ## Tools
-* ./6_huete
+* 6 Hüte  
 Die 6 Hüte Methodik nach de Bono ist eine einfache Methode um schnell und effektiv Feedback aus verschiedenen festgelegten Sichten zu erhalten.
 Hierfür werden verschiedenen Teilnehmern Hüte aufgsetzt (in unserem Fall virtuell), welche verschiedene Bedeutungen haben.  
 (z.B. Der schwarze Hut vertritt eine rein kritische Meinung und muss/darf auch nur aus dieser Sicht argumentieren, wohingegen der grüne Hut z.B. alles kreativ sieht).
@@ -16,7 +16,7 @@ Hierfür werden verschiedenen Teilnehmern Hüte aufgsetzt (in unserem Fall virtu
 Weitere Informationen finden Sie hier:
 [./6_huete](https://kreativitätstechniken.info/ideen-generieren/die-6-denkhute-von-de-bono/)
 
-* Planning Poker
+* Planning Poker  
 Ein Planning Poker, ist entgegen dem Namen, kein richtiges Poker (Sie müssen sich also keine Sorgen machen Geld zu verlieren (; ).  
 Hier wird einfach über eine schnelle anonyme oder nicht anonyme Abstimmung über einen Zahlenwert die Komplexität oder der Zeitbedarf von verschiedenen Dingen geschätzt.
 Anschließend können alle Mitglieder die Ergebnisse einsehen und über hohe Diskrepanzen diskutieren.
