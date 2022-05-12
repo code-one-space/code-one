@@ -6,7 +6,8 @@ Im Rahmen des zweiten Jour fixe haben wir unsere weiteren Risiken dargestellt un
 Während des Sprints haben wir uns Anforderungen überlegt, verschiedene Designs ausgearbeitet sowie verschiedenste Ideen gesammelt.
 
 ## ./files 
-* (Wir übernehmen keine Haftung für externe Inhalte)
+* Wir übernehmen keine Haftung für externe Inhalte
+* 
 * ls -a  
 
 [./jourfixe 2](https://drive.google.com/file/d/1qsAKnFBNyFmq0hehKtwW8-U_981t-EkY/view?usp=sharing)  

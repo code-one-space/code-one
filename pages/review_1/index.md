@@ -8,7 +8,8 @@ und über unsere Ideen bezüglich der App. Ursprünglich war auch geplant einen 
 allerdings gab es hier technische Schwierigkeiten, weshalb wir dies auf den nächsten Sprint verschieben mussten.  
 Der Prototyp wird am 12.05. dem Kunden präsentiert.
 ## ./files 
-* (Wir übernehmen keine Haftung für externe Inhalte)
+* Wir übernehmen keine Haftung für externe Inhalte
+* 
 * ls -a  
 
 [./review 1](https://drive.google.com/file/d/1AL77gS1g21UfAVcAIOdb2sXwWrukG3ZY/view?usp=sharing)  

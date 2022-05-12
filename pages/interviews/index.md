@@ -12,7 +12,8 @@ Verbesserung für den Alltag als agilen Entwickler darstellen und welche unerwü
 * * *
 
 ## ./files  
-* (Wir übernehmen keine Haftung für externe Inhalte)
+* Wir übernehmen keine Haftung für externe Inhalte
+* 
 * ls -a  
   
 [Interviewbogen_template.pdf](../../assets/documents/Interviewbogen_template.pdf)  
