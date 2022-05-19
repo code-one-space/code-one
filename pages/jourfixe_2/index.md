@@ -1,7 +1,7 @@
 <style>a {text-decoration: none;}</style>
 # ./jour_fixe 2
 
-Hier finden Sie unsere Präsentationsunterlagen für das zweite Jourfixe an der Hochschule Mannheim.  
+Hier finden Sie unsere Präsentationsunterlagen für das zweite Jour fixe an der Hochschule Mannheim.  
 Im Rahmen des zweiten Jour fixe haben wir unsere weiteren Risiken dargestellt und einen vorläufigen Prototypen präsentiert, welcher dem Kunden vorgestellt wurde.  
 Während des Sprints haben wir uns Anforderungen überlegt, verschiedene Designs ausgearbeitet sowie verschiedenste Ideen gesammelt.
 
