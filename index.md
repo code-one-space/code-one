@@ -13,9 +13,10 @@ Bitte beachten Sie, dass wir nicht alle Dokumente veröffentlichen werden. Dies 
 # ./files  
 
 * ls aktuelles  
-[./jourfixe 3](./pages/jourfixe_3/)
-
+[./architecture](./pages/architecture/)
 * ls archiv  
+[./review 2](./pages/review_2/)
+[./jourfixe 3](./pages/jourfixe_3/)
 [./review 1](./pages/review_1/)  
 [./jourfixe 2](./pages/jourfixe_2/)  
 [./interview exxeta](pages/interviews/)  
@@ -25,12 +26,18 @@ Bitte beachten Sie, dass wir nicht alle Dokumente veröffentlichen werden. Dies 
 # ./idee
 Unsere Idee ist es, ein Produkt zu entwickeln, welches kleine Scrum-Teams (4-7 Entwickler inkl. Scrummaster und Productowner) im Alltag
 bei der Organisation unterstützt. Durch problemorientiertes Denken haben wir verschiedene Aspekte gefunden, welche uns im Alltag als agile Softwareentwickler stören.  
-[./read more](./pages/ideas/)
+[./more idea.txt](./pages/ideas/)
+
+* * *
+# ./api_documentation
+Hier finden Sie unsere API-Dokumentation.  
+[./more api_documentation.txt](./pages/api_documentation/index.html)
+[./more openapi.txt](./pages/api_documentation/spec.yaml)
 
 * * *
 # ./about_us
-Wir sind das Softwareentwicklungsteam 1, eine studentische Softwareentwicklergruppe, welche im Rahmen des SEP (Softwareentwicklungprojekts) an der Hochschule Mannheim im Sommersemester 2022 an einem Projekt arbeitet.
-  
+Wir sind das Softwareentwicklungsteam Code: One, eine studentische Softwareentwicklergruppe, welche im Rahmen des SEP (Softwareentwicklungprojekts) durch die Entwicklung einer App für die Problemlösung eines Problem im agilen Framework Scrum.
+
 # ./contact_us
 
 Sie können uns jederzeit wie folgt erreichen:  
@@ -38,4 +45,4 @@ Sie können uns jederzeit wie folgt erreichen:
     <a href="mailto:support@codeone.space?subject=Anfrage%20zum%20SEP%20-%20" style="font-size:35px; text-decoration: none; color: white;"><i class="fa-solid fa-envelope"></i><span style="font-size: 16px; text-decoration: none; position:relative;top:-8px; left: 13px; text-decoration:underline;">support@codeone.space</span></a>
 </p>
 
-Wir antworten schnellstmöglich auf Ihre Anfrage, im Normalfall erhalten Sie innerhalb von spätestens 24h eine Antwort.
+Wir antworten schnellstmöglich auf Ihre Anfrage. Im Normalfall erhalten Sie werktags innerhalb von spätestens 24h eine Antwort.
