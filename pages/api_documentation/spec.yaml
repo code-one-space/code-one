@@ -97,6 +97,7 @@ paths:
   /api/meetings/join:
     post:
       summary: Join meeting
+      description: Returns a meeting by its id from the database
       tags:
         - Meeting
       requestBody:
@@ -169,33 +170,6 @@ paths:
                   error:
                     type: string
                     example: Error description
-  /api/meetings/clear:
-    post:
-      summary: Clear Meeting
-      tags:
-        - Meeting
-      requestBody:
-        "200":
-          description: OK
-          content:
-            application/json:
-              schema:
-                type: object
-                properties:
-                  id:
-                    type: string
-                    description: done message
-                    example: done
-        required: true
-        content:
-          application/json:
-            schema:
-              type: object
-              properties:
-                devlock:
-                  type: string
-                  example: Anything
-        responses: null
 servers:
   - url: https://sep-nojo-test.azurewebsites.net/
     description: Azure deployment
@@ -227,8 +201,10 @@ components:
         creator:
           type: object
           properties:
-            id: string
-            name: string
+            id:
+              type: string
+            name:
+              type: string
         creatorName:
           type: string
         memberId:
