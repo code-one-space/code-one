@@ -13,10 +13,11 @@ Bitte beachten Sie, dass wir nicht alle Dokumente veröffentlichen werden. Dies 
 # ./files  
 
 * ls aktuelles  
-[./architecture](./pages/architecture/)
+[./architecture](./pages/architecture/)  
+
 * ls archiv  
-[./review 2](./pages/review_2/)
-[./jourfixe 3](./pages/jourfixe_3/)
+[./review 2](./pages/review_2/)  
+[./jourfixe 3](./pages/jourfixe_3/)  
 [./review 1](./pages/review_1/)  
 [./jourfixe 2](./pages/jourfixe_2/)  
 [./interview exxeta](pages/interviews/)  
@@ -31,7 +32,7 @@ bei der Organisation unterstützt. Durch problemorientiertes Denken haben wir ve
 * * *
 # ./api_documentation
 Hier finden Sie unsere API-Dokumentation.  
-[./more api_documentation.txt](./pages/api_documentation/index.html)
+[./more api_documentation.txt](./pages/api_documentation/index.html)  
 [./more openapi.txt](./pages/api_documentation/spec.yaml)
 
 * * *
