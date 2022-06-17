@@ -13,9 +13,10 @@ Bitte beachten Sie, dass wir nicht alle Dokumente veröffentlichen werden. Dies 
 # ./files  
 
 * ls aktuelles  
-[./architecture](./pages/architecture/)  
+[./review 3](./pages/review_3/)  
 
 * ls archiv  
+[./architecture](./pages/architecture/)    
 [./review 2](./pages/review_2/)  
 [./jourfixe 3](./pages/jourfixe_3/)  
 [./review 1](./pages/review_1/)  
@@ -37,7 +38,7 @@ Hier finden Sie unsere API-Dokumentation.
 
 * * *
 # ./about_us
-Wir sind das Softwareentwicklungsteam Code: One, eine studentische Softwareentwicklergruppe, welche im Rahmen des SEP (Softwareentwicklungprojekts) durch die Entwicklung einer App für die Problemlösung eines Problem im agilen Framework Scrum.
+Wir sind das Softwareentwicklungsteam von Code: One n.e.V., eine studentische Softwareentwicklergruppe, welche im Rahmen des SEP (Softwareentwicklungprojekts) eine App für Meetings erstellt. Unser Ziel ist die Digitalisierung und effizientere Gestaltugn von Meetings. 
 
 # ./contact_us
 
