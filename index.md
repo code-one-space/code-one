@@ -38,7 +38,7 @@ Hier finden Sie unsere API-Dokumentation.
 
 * * *
 # ./about_us
-Wir sind das Softwareentwicklungsteam von Code: One n.e.V., eine studentische Softwareentwicklergruppe, welche im Rahmen des SEP (Softwareentwicklungprojekts) eine App für Meetings erstellt. Unser Ziel ist die Digitalisierung und effizientere Gestaltugn von Meetings. 
+Wir sind das Softwareentwicklungsteam von Code: One n.e.V., eine studentische Softwareentwicklergruppe, welche im Rahmen des SEP (Softwareentwicklungprojekts) eine App für Meetings erstellt. Unser Ziel ist die Digitalisierung und effizientere Gestaltung von Meetings. 
 
 # ./contact_us
 
