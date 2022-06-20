@@ -7,13 +7,15 @@
         const query = window.location.search
         const params = new URLSearchParams(query)
         const meetingid = params.get("meetingId")
+        const ip = params.get("host")
+        const port = params.get("port")
 
         if(meetingid) {
-            window.location = "exp://192.168.178.22:19000/--/joinscreen?meetingId=" + meetingid
+            window.location = `exp://${ip}:${port}/--/joinscreen?meetingId=${meetingid}`
         }
     </script>
 </head>
 <body>
-    <p>Join meeting</p>
+    <p>Join dev meeting</p>
 </body>
 </html>
