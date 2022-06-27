@@ -1,7 +1,8 @@
-<style>a {text-decoration: none;}</style>
-# ./jour_fixe 3
+<style>a { text-decoration: none; }</style>
+# ./jour_fixe 4
 
-WIP
+Das Jour fixe 4 stelt aus technischer Sicht einen deutlichen Fortschritt dar. Uns gelang es in diesem Sprint das Backend fertigzustellen
+und weitere Änderungen am Frontend vorzunehmen. Ebenfalls wurden weitere Features geplant, welche in den kommenden Sprints bearbeitet werden. 
 
 ## ./files 
 * Wir übernehmen keine Haftung für externe Inhalte
@@ -9,4 +10,3 @@ WIP
 * ls -a  
 
 [./jourfixe 4](../../assets/documents/jf4_codeone.pdf)  
-[./risk_management](https://docs.google.com/spreadsheets/d/1KWmd3f5K6jiEH1-YzvcWmgIIqKQHIrXcmGTyRT89FJA/edit?usp=sharing)

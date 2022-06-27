@@ -5,17 +5,18 @@
 </p>
 # ./willkommen
 
-Auf dieser Webseite finden Sie alle relevanten Dokumente, von Präsentationen für JourFixes bis hin zu Feature-Beschreibungen und Dokumentationen über das Projekt.
+Auf dieser Webseite finden Sie alle relevanten Dokumente, von Präsentationen für Jour fixe bis hin zu Feature-Beschreibungen und Dokumentationen über das Projekt "Meet:One".
 Bitte beachten Sie, dass wir nicht alle Dokumente veröffentlichen werden. Dies hat verschiedene Gründe (Datenschutz, Einverständnis von beteiligten Personen felt, u.a.).
-  
 * * *  
   
 # ./files  
 
 * ls aktuelles  
-[./review 3](./pages/review_3/)  
+[./jorufixe 6](./pages/jourfixe_6/)  
 
 * ls archiv  
+[./jorufixe 5](./pages/jourfixe_5/)  
+[./review 3](./pages/review_3/)  
 [./architecture](./pages/architecture/)    
 [./review 2](./pages/review_2/)  
 [./jourfixe 3](./pages/jourfixe_3/)  
@@ -32,13 +33,14 @@ bei der Organisation unterstützt. Durch problemorientiertes Denken haben wir ve
 
 * * *
 # ./api_documentation
-Hier finden Sie unsere API-Dokumentation.  
+Hier finden Sie unsere API-Dokumentation zu Meet:One.  
 [./more api_documentation.txt](./pages/api_documentation/index.html)  
 [./more openapi.txt](./pages/api_documentation/spec.yaml)
 
 * * *
 # ./about_us
 Wir sind das Softwareentwicklungsteam von Code: One n.e.V., eine studentische Softwareentwicklergruppe, welche im Rahmen des SEP (Softwareentwicklungprojekts) eine App für Meetings erstellt. Unser Ziel ist die Digitalisierung und effizientere Gestaltung von Meetings. 
+Zum Beitreten in unseren Verein können Sie uns über unsere E-Mail kontaktieren.
 
 # ./contact_us
 

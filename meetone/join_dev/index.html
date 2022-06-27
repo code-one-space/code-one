@@ -10,6 +10,9 @@
         const ip = params.get("host")
         const port = params.get("port")
 
+        if(!port)
+            port = 19000
+
         if(meetingid) {
             window.location = `exp://${ip}:${port}/--/joinscreen?meetingId=${meetingid}`
         }
