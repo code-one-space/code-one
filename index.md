@@ -23,7 +23,7 @@ Bitte beachten Sie, dass wir nicht alle Dokumente veröffentlichen werden. Dies 
 [./jourfixe 3](./pages/jourfixe_3/)  
 [./review 1](./pages/review_1/)  
 [./jourfixe 2](./pages/jourfixe_2/)  
-[./interview kunde](pages/interviews/)  
+[./interview](pages/interviews/)  
 [./jourfixe 1](./pages/jourfixe_1/)  
 
 * * *  
