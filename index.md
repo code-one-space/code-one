@@ -12,10 +12,10 @@ Bitte beachten Sie, dass wir nicht alle Dokumente veröffentlichen werden. Dies 
 # ./files  
 
 * ls aktuelles  
-[./jorufixe 6](./pages/jourfixe_6/)  
+[./jourfixe 6](./pages/jourfixe_6/)  
 
 * ls archiv  
-[./jorufixe 5](./pages/jourfixe_5/)  
+[./jourfixe 5](./pages/jourfixe_5/)  
 [./review 3](./pages/review_3/)  
 [./architecture](./pages/architecture/)    
 [./review 2](./pages/review_2/)  
