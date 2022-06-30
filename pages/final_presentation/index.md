@@ -1,7 +1,7 @@
 <style>a {text-decoration: none;}</style>
 # ./final
 
-WIP - will be updated after the final presentation on monday, the 6th July
+WIP - will be updated after the final presentation on monday (6th July)
 
 ## ./files 
 * Wir übernehmen keine Haftung für externe Inhalte
