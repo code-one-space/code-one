@@ -13,5 +13,4 @@ Wir sind zuversichtlich, dass wir das Projekt zum geplanten Zeitpunkt fertigstel
 * 
 * ls -a  
 
-[./jourfixe 4](../../assets/documents/jf5_codeone.pdf)  
-[./risk_management](https://docs.google.com/spreadsheets/d/1KWmd3f5K6jiEH1-YzvcWmgIIqKQHIrXcmGTyRT89FJA/edit?usp=sharing)
+[./jourfixe 6](../../assets/documents/jf6_codeone.pdf)  

@@ -11,5 +11,4 @@ Wir haben nun auch einen Namen für unser Produkt gefunden: "Meet:One", frisch a
 * 
 * ls -a  
 
-[./jourfixe 4](../../assets/documents/jf5_codeone.pdf)  
-[./risk_management](https://docs.google.com/spreadsheets/d/1KWmd3f5K6jiEH1-YzvcWmgIIqKQHIrXcmGTyRT89FJA/edit?usp=sharing)
+[./jourfixe 5](../../assets/documents/jf5_codeone.pdf)  

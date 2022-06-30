@@ -1,8 +1,8 @@
 <style>a {text-decoration: none;}</style>
 # ./interview 
-### 20.04.2022 - Interview mit Exxeta-Mitarbeiter
+### 20.04.2022 - Interview mit Mitarbeiter des Kunden
 
-Im Rahmen des Softwareentwicklungprojekts haben wir am 21.04.2022 ein Interview mit einem Mitarbeiter unseres Partnerunternehmens Exxeta geführt.
+Im Rahmen des Softwareentwicklungprojekts haben wir am 21.04.2022 ein Interview mit einem Mitarbeiter unseres Partnerunternehmens geführt.
 Ziel des Interviews war die Feststellung des Arbeitsalltags eines (richtigen, im Unternehmen arbeitenden) Entwicklers, welches uns Einsicht
 in die Notwendigkeit von Tools und Features gibt, welche wir in unserer App implementieren möchten. Da wir noch Studenten sind und daher nicht 
 in Unternehmensstandards eingeweiht sind haben wir uns mit J. unterhalten und versucht herauszufinden, welche geplanten Features eine tatsächliche 

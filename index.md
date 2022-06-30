@@ -12,6 +12,7 @@ Bitte beachten Sie, dass wir nicht alle Dokumente veröffentlichen werden. Dies 
 # ./files  
 
 * ls aktuelles  
+[./final_presentation](./pages/final_presentation/)  
 [./jourfixe 6](./pages/jourfixe_6/)  
 
 * ls archiv  
@@ -22,7 +23,7 @@ Bitte beachten Sie, dass wir nicht alle Dokumente veröffentlichen werden. Dies 
 [./jourfixe 3](./pages/jourfixe_3/)  
 [./review 1](./pages/review_1/)  
 [./jourfixe 2](./pages/jourfixe_2/)  
-[./interview exxeta](pages/interviews/)  
+[./interview kunde](pages/interviews/)  
 [./jourfixe 1](./pages/jourfixe_1/)  
 
 * * *  

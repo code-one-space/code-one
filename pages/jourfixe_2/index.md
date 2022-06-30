@@ -11,4 +11,3 @@ Während des Sprints haben wir uns Anforderungen überlegt, verschiedene Designs
 * ls -a  
 
 [./jourfixe 2](https://drive.google.com/file/d/1qsAKnFBNyFmq0hehKtwW8-U_981t-EkY/view?usp=sharing)  
-[./risk_management](https://docs.google.com/spreadsheets/d/1KWmd3f5K6jiEH1-YzvcWmgIIqKQHIrXcmGTyRT89FJA/edit?usp=sharing)

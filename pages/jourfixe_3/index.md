@@ -10,4 +10,3 @@ Während des Sprints haben wir erste Architekturdokumente erstellt und mit der I
 * ls -a  
 
 [./jourfixe 3](../../assets/documents/jf_3codeone.pdf)  
-[./risk_management](https://docs.google.com/spreadsheets/d/1KWmd3f5K6jiEH1-YzvcWmgIIqKQHIrXcmGTyRT89FJA/edit?usp=sharing)
