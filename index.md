@@ -15,9 +15,10 @@ Bitte beachten Sie, dass wir nicht alle Dokumente veröffentlichen werden. Dies 
 
 * ls aktuelles  
 [./final_presentation](./pages/final_presentation/)  
-[./jourfixe 6](./pages/jourfixe_6/)  
+[./poster](./pages/poster/)
 
 * ls archiv  
+[./jourfixe 6](./pages/jourfixe_6/)  
 [./jourfixe 5](./pages/jourfixe_5/)  
 [./review 3](./pages/review_3/)  
 [./architecture](./pages/architecture/)    
