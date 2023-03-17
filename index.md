@@ -6,7 +6,7 @@
 # ./willkommen
 
 Auf dieser Webseite finden Sie alle relevanten Dokumente, von Präsentationen für Jour fixe bis hin zu Feature-Beschreibungen und Dokumentationen über das Projekt "Meet:One".
-Bitte beachten Sie, dass wir nicht alle Dokumente veröffentlichen werden. Dies hat verschiedene Gründe (Datenschutz, Einverständnis von beteiligten Personen felt, u.a.).  
+Bitte beachten Sie, dass wir nicht alle Dokumente veröffentlichen werden. Dies hat verschiedene Gründe (Datenschutz, Einverständnis von beteiligten Personen fehlte, u.a.).  
 
 [Our Product](https://meetoneapp.com)
 * * *  
